@@ -5,9 +5,9 @@
 
  **Fundamentos de Circuitos Electricos**
 
- **Tarea Nº1**
+ **Tarea Nº2**
 
-**Integrantes**: Castro Albert, Pillajo Josue
+**Integrantes**: Castro Albert, 
 
 **Carrera**: Ing. en Electrónica y Automatización 
 
@@ -28,4 +28,6 @@
 # 2. Marco Teorico (Resumen)
 
 ![teoria 2 cap 4](https://user-images.githubusercontent.com/85526684/121978744-780a0d80-cd4e-11eb-9cf6-3afe1e91a0e7.jpeg)
+
+# 3. Explicación y Resolución de ejercicios o problemas
 
